@@ -1,0 +1,1 @@
+Jogo de perguntas e respostas feito em python. Ele exibe uma pergunta ao jogador, pede a resposta e avalia se ela está correta;
