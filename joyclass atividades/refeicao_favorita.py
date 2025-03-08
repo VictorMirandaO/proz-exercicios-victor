@@ -21,8 +21,11 @@ valor_por_pessoa = novo_total / convidados
 print(f"Cada convidado deve pagar R${valor_por_pessoa:.2f}.")
 
 orcamento = 18
+bom_amigo = True
 
 if(orcamento >= valor_por_pessoa):
     print("O valor está dentro do orçamento.")
+elif(bom_amigo == True):
+    print("Tenho um amigo que pode me ajudar.")
 else:
-    print("O valor está fora do orçamento.")
+    print("Pedir ajuda a outro amigo.")
