@@ -17,4 +17,12 @@ novo_total = (almoco_preco * 5) + (bebida_preco * 3) + (sobremesa_preco * 2)
 print(f"O total da refeição para 5 pessoas é de R${novo_total:.2f}.")
 
 
-print(f"Cada convidado deve pagar R${novo_total / convidados:.2f}.")
+valor_por_pessoa = novo_total / convidados
+print(f"Cada convidado deve pagar R${valor_por_pessoa:.2f}.")
+
+orcamento = 18
+
+if(orcamento >= valor_por_pessoa):
+    print("O valor está dentro do orçamento.")
+else:
+    print("O valor está fora do orçamento.")
