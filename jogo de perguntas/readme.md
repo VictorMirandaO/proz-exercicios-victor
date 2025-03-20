@@ -1,4 +1,4 @@
-**Jogo de pergutas e respostas desenvolvido por Victor Mirada Oliveira.**
+***Jogo de pergutas e respostas desenvolvido por Victor Mirada Oliveira.***
 
 Topicos:
 - Como funciona - Niveis;
