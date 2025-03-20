@@ -1,95 +1,154 @@
-***Jogo de pergutas e respostas desenvolvido por Victor Mirada Oliveira.***
+# 🎮 Jogo de Perguntas e Respostas  
 
-### Topicos:
-- Como funciona - Niveis;
-- Dificuldades;
-- Categorias;
-- Regras;
-- Atualizações futuras.
+Desenvolvido por **Victor Miranda Oliveira**  
 
-# Como o jogo funciona?
-Ele primeiramente solicita o cadastro do usuario, pedindo informações, elas são:
+Um jogo interativo de perguntas e respostas que desafia seu conhecimento em diversas categorias e níveis de dificuldade.  
 
-Nome - Para Registrar o usuário;
+## 📌 Tópicos  
+- [🛠️ Como funciona?](#🛠️-como-funciona)  
+- [🎚️ Níveis de Idade](#🎚️-níveis-de-idade)  
+- [⚡ Dificuldades](#⚡-dificuldades)  
+- [🎭 Categorias](#🎭-categorias)  
+- [📜 Regras](#📜-regras)  
+- [🔮 Atualizações Futuras](#🔮-atualizações-futuras)  
 
-Idade - Para salvar o publico atingido, essa pergunta faz com que as perguntas sejam em base ao conhecimento da idade. Por exemplo:
-São separados em niveis de idade da seguinte forma:
+---  
 
-#### Nivel1 = Idade de 1 a 6 anos;
-#### Nivel2 = Idade de 7 a 10 anos;
-#### Nivel3 = Idade de 11 a 14 anos;
-#### Nivel4 = Idade de 15 a 18 anos;
-#### Nivel5 = Maiores de 18 anos, sendo o nivel mais alto.
+## 🛠️ Como funciona?  
 
-Cada pergunta contém alternativas pra você dizer a correta.
-Cada dificuldade tem uma quantidade de alternativas.
-As dificuldades insana e impossivel contém questões abertas, ou seja, vo~e terá que digitar. Porém, sempre se atentando a ortografia (assim fazendo com que fique mais dificil ainda).
+O jogo inicia solicitando o cadastro do usuário, coletando as seguintes informações:  
 
-# Dificuldades:
-Além do nivel baseado em idade, também tem a escolha de dificuldades. Elas são:
+- **Nome** → Para registrar o jogador.  
+- **Idade** → Define o nível das perguntas, adaptando-as ao conhecimento esperado da faixa etária.  
 
-Muito facil - Sendo um nivel extremamente fácil, contendo perguntas bem fáceis de serem respondidas. Sem limite pra responder, ou seja você tem bastante tempo pra responder todas com calma.
+Em seguida, o jogador escolhe:  
 
-Facíl - Sendo um nivel fácil, tendo perguntas um pouco a mais dificeis que a dificuldade anterior. Também sem limite de tempo.
+1️⃣ **A dificuldade** → Determina o quão desafiadoras serão as perguntas.  
+2️⃣ **A categoria** → Define o tema das perguntas.  
 
-Médio - Sendo um nivel médio, contém perguntas na dificuldade média, dificultando um pouco mais. Sendo melhor pra quem quer algo mais moderado. Aqui já começa a dificultar, tem o tempo limite de 00s por pergunta.
+Cada pergunta contém alternativas para escolher a resposta correta.  
+A partir do nível **Insano**, algumas perguntas são **abertas**, exigindo que o jogador digite a resposta correta.  
 
-Dificil - Sendo um nivel dificil, contém perguntas com mais dificuldade. Trazendo um desafio maior ao usuario. O tempo diminui, aqui tendo 00s pra resolver cada pergunta.
+---
 
-Muito Dificil - Sendo um nivel muito dificil, é otimo pra usuarios que querem um desafio a mais. Aqui é bem mais dificil, tendo apenas 00s pra resolver as perguntas.
+## 🎚️ Níveis de Idade  
 
-Insano - Sendo um modo insano, este modo é insanidade pura. Contendo perguntas não tão cotidianas, é otimo pra passar raiva. Aqui o tempo também fica insano. Além de conter 00s por pergunta, agora se você digitar algo e apagar pra corrigir o tempo é descontado.
+O jogo adapta as perguntas à idade do jogador:  
 
-Impossivel - Sendo um modo impossivel, assim como já se descreve - é um modo impossivel, com a margem de erro em alta escala. Modo com perguntas tecnicas e especificas. Agora você tem um pouco mais de tempo por pergunta, porém cotém a mesma questão da dificuldade anterior, se apagar algo que voê já escreveu seu tempo é descontado. Além disso, tem um tempo para finalizar o jogo. Ou seja, se não fializar antes do tempo acabar você perde o jogo e tem que começar novamente.
+- **Nível 1** → 1 a 6 anos  
+- **Nível 2** → 7 a 10 anos  
+- **Nível 3** → 11 a 14 anos  
+- **Nível 4** → 15 a 18 anos  
+- **Nível 5** → Maiores de 18 anos  
 
-# Categoria:
-As categorias são pra definir quais serão as perguntas, exemplo: você seleciona matematica. Apenas as perguntas sobre matematica serão perguntadas.
+Mesmo dentro das categorias, a dificuldade será ajustada para a idade escolhida.  
 
-As categorias disponiveis são:
+---
 
-#### 1 - Tecnologia;
-#### 2 - Youtubers;
-#### 3 - geografia;
-#### 4 - Matematica;
-#### 5 - Filmes;
-#### 6 - Historia;
-#### 7 - Lingua Portuguesa;
-#### 8 - Cultura Pop;
-#### 9 - Espaço e Astronomia;
-#### 10 - Personalidades Famosas;
-#### 11 - Transporte e Automoveis;
-#### 12 - Ciencias;
-#### 13 - Esportes;
-#### 14 - Curiosidades Gerais;
-#### 15 - Música;
-#### 16 - Jogos;
-#### 17 - Animes e Desenhos;
+## ⚡ Dificuldades  
 
+Além da idade, o jogador escolhe a dificuldade:  
 
-# Regras:
+### 🟢 **Muito Fácil**  
+✔️ Perguntas extremamente simples.  
+⏳ **Sem limite de tempo.**  
 
-O jogo possui regras pra deixa-lo mais organizado e dinamico. As regras em topicos são:
+### 🔵 **Fácil**  
+✔️ Perguntas um pouco mais difíceis.  
+⏳ **30 segundos por pergunta.**  
 
-1 - Responda as perguntas corretamente.
-2 - Cada pergunta vale 1 ponto.
-3 - Cada dificuldade tem uma quantidade de perguntas definidas:
+### 🟠 **Médio**  
+✔️ Perguntas de dificuldade moderada.  
+⏳ **20 segundos por pergunta.**  
 
-    Muito facil: 5 - Perguntas;
-    Facil: 10 - Perguntas;
-    Medio: 15 - Perguntas;
-    Dificil: 15 - Perguntas;
-    Muito dificil: 20 - Perguntas;
-    Insano: 30 - Perguntas, 7 delas sendo perguntas abertas;
-    Impossivel: 50 - Perguntas, 25 delas sendo perguntas abertas.
+### 🔴 **Difícil**  
+✔️ Perguntas mais desafiadoras.  
+⏳ **15 segundos por pergunta.**  
 
-4 - Por favor, apenas envie a letra da alternativa, exemplo:
-    nome do desenvolvedor:
-    a) Pedro
-    b) Augusto
-    c) Victor
-    d) Maria
+### 🟣 **Muito Difícil**  
+✔️ Ótimo para quem busca um desafio maior.  
+⏳ **10 segundos por pergunta.**  
 
-    Ai você deve enviar a letra antes do parenteses, da seguinta forma:
-    qual a resposta? c
+### 🟡 **Insano**  
+✔️ Perguntas menos comuns e mais complicadas.  
+⏳ **7 segundos por pergunta fechada.**  
+⌨️ **Questões abertas** → **15 segundos por pergunta.**  
+⏳ **Tempo total do jogo: 5 minutos.**  
+⚠️ Se apagar um caractere digitado, o tempo da pergunta reduz **1 segundo**!  
 
-5 - Sendo questão aberta (dificuldades: insano e impossivel) Por favor, sempre verifique sua ortografia antes de enviar as respostas das questões.
+### ⚫ **Impossível**  
+✔️ Como o nome sugere, um verdadeiro teste para especialistas.  
+⏳ **5 segundos por pergunta fechada.**  
+⌨️ **Questões abertas** → **10 segundos por pergunta.**  
+⏳ **Tempo total do jogo: 3 minutos.**  
+⚠️ Se apagar um caractere digitado, o tempo da pergunta reduz **1 segundo**!  
+⏳ Se o tempo total acabar antes de finalizar, **você perde e deve recomeçar!**  
+
+---
+
+## 🎭 Categorias  
+
+O jogador pode escolher entre as seguintes categorias:  
+
+1. Tecnologia  
+3. Youtubers  
+3. Geografia  
+4. Matemática  
+5. Filmes e Séries 
+6. História  
+7. Língua Portuguesa  
+8. Cultura Pop  
+9. Espaço e Astronomia  
+10. Personalidades Famosas  
+11. Transporte e Automóveis  
+12. Ciências  
+13. Esportes  
+14. Curiosidades Gerais  
+15. Música  
+16. Jogos  
+17 Animes e Desenhos  
+
+---
+
+## 📜 Regras  
+
+Para manter o jogo organizado e divertido, siga as regras:  
+
+1️⃣ **Responda corretamente as perguntas.**  
+2️⃣ **Cada pergunta vale 1 ponto.**  
+3️⃣ **Cada dificuldade tem uma quantidade fixa de perguntas:**  
+
+   - **Muito Fácil** → 5 perguntas  
+   - **Fácil** → 10 perguntas  
+   - **Médio** → 15 perguntas  
+   - **Difícil** → 15 perguntas  
+   - **Muito Difícil** → 20 perguntas  
+   - **Insano** → 30 perguntas (**7 abertas**)  
+   - **Impossível** → 50 perguntas (**25 abertas**)  
+
+4️⃣ **Formato da resposta para perguntas de múltipla escolha:**  
+
+   **Exemplo:**
+
+Quem desenvolveu o jogo?
+a) Pedro
+b) Augusto
+c) Victor
+d) Maria
+
+✅ **Correto:** `c`  
+
+5️⃣ **Para perguntas abertas (Insano e Impossível):**  
+- Digite a resposta corretamente.  
+- **Erros ortográficos podem invalidar a resposta!**  
+- Se apagar algo, **perde tempo**.  
+
+---
+
+## 🔮 Atualizações Futuras  
+
+🚀 Melhorias na interface do jogo. (em breve será em um site responsivo). 
+🎯 Mais categorias e perguntas.  
+🏆 Novo sistema de pontuação e rankings.  
+📅 Modo "Desafio do Dia" com perguntas exclusivas.
+🌎 Perguntas em outros idiomas.
