@@ -38,21 +38,31 @@ print(" ")
 dificuldade = int(input("Por favor, digite a dificuldade do jogo (apenas o número): "))
 print(" ")
 print("As categorias disponíveis são:")
-print("1 - Geografia")
-print("2 - História")
-print("3 - Matemática")
-print("4 - Português")
-print("5 - Ciências")
-print("6 - Informática")
-print("7 - Entretenimento")
-print("8 - Esportes")
-print("9 - Outros")
+print('''
+    1 - Tecnologia  
+    3 - Youtubers e Influencers  
+    3 - Geografia  
+    4 - Matemática  
+    5 - Filmes e Séries 
+    6 - História  
+    7 - Língua Portuguesa  
+    8 - Cultura Pop  
+    9 - Espaço e Astronomia  
+    10 - Personalidades Famosas  
+    11 - Transporte e Automóveis  
+    12 - Ciências  
+    13 - Esportes  
+    14 - Curiosidades Gerais  
+    15 - Música  
+    16 - Jogos  
+    17 - Animes e Desenhos''')
 print(" ")
 
-print("Por favor, escolha a categoria do jogo:")
+categoria = input("Por favor, digite a categoria do jogo (apenas os números): ")
 print("Atente-se a categoria escolhida, pois as perguntas serão baseadas na mesma.")
 
-categoria = input("Por favor, digite a categoria do jogo (): ")
+print(" ")
+print(" ")
 print(" ")
 
 print(f"Olá {nome}, seja bem vindo ao jogo de perguntas e respostas!")

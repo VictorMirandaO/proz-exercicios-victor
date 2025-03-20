@@ -91,7 +91,7 @@ Além da idade, o jogador escolhe a dificuldade:
 O jogador pode escolher entre as seguintes categorias:  
 
 1. Tecnologia  
-3. Youtubers  
+3. Youtubers e Influencers  
 3. Geografia  
 4. Matemática  
 5. Filmes e Séries 
