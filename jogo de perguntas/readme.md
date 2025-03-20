@@ -14,9 +14,13 @@ Idade - Para salvar o publico atingido, essa pergunta faz com que as perguntas s
 São separados em niveis de idade da seguinte forma:
 
 Nivel1 = Idade de 1 a 6 anos;
+
 Nivel2 = Idade de 7 a 10 anos;
+
 Nivel3 = Idade de 11 a 14 anos;
+
 nivel4 = Idade de 15 a 18 anos;
+
 Nivel5 = Maiores de 18 anos, sendo o nivel mais alto.
 
 Cada pergunta contém alternativas pra você dizer a correta.
@@ -88,6 +92,6 @@ O jogo possui regras pra deixa-lo mais organizado e dinamico. As regras em topic
     d) Maria
 
     Ai você deve enviar a letra antes do parenteses, da seguinta forma:
-    qual a resposta? *c*
+    qual a resposta? c
 
 5 - Sendo questão aberta (dificuldades: insano e impossivel) Por favor, sempre verifique sua ortografia antes de enviar as respostas das questões.
