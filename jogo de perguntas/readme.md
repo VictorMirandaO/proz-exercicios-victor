@@ -14,13 +14,9 @@ Idade - Para salvar o publico atingido, essa pergunta faz com que as perguntas s
 São separados em niveis de idade da seguinte forma:
 
 Nivel1 = Idade de 1 a 6 anos;
-
 Nivel2 = Idade de 7 a 10 anos;
-
 Nivel3 = Idade de 11 a 14 anos;
-
-nivel4 = Idade de 15 a 18 anos;
-
+Nivel4 = Idade de 15 a 18 anos;
 Nivel5 = Maiores de 18 anos, sendo o nivel mais alto.
 
 Cada pergunta contém alternativas pra você dizer a correta.
