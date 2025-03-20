@@ -1,6 +1,6 @@
-*Jogo de pergutas e respostas desenvolvido por Victor Mirada Oliveira.*
+***Jogo de pergutas e respostas desenvolvido por Victor Mirada Oliveira.***
 
-Topicos:
+### Topicos:
 - Como funciona - Niveis;
 - Dificuldades;
 - Categorias;
@@ -9,15 +9,17 @@ Topicos:
 
 # Como o jogo funciona?
 Ele primeiramente solicita o cadastro do usuario, pedindo informações, elas são:
+
 Nome - Para Registrar o usuário;
+
 Idade - Para salvar o publico atingido, essa pergunta faz com que as perguntas sejam em base ao conhecimento da idade. Por exemplo:
 São separados em niveis de idade da seguinte forma:
 
-Nivel1 = Idade de 1 a 6 anos;
-Nivel2 = Idade de 7 a 10 anos;
-Nivel3 = Idade de 11 a 14 anos;
-nivel4 = Idade de 15 a 18 anos;
-Nivel5 = Maiores de 18 anos, sendo o nivel mais alto.
+#### Nivel1 = Idade de 1 a 6 anos;
+#### Nivel2 = Idade de 7 a 10 anos;
+#### Nivel3 = Idade de 11 a 14 anos;
+#### Nivel4 = Idade de 15 a 18 anos;
+#### Nivel5 = Maiores de 18 anos, sendo o nivel mais alto.
 
 Cada pergunta contém alternativas pra você dizer a correta.
 Cada dificuldade tem uma quantidade de alternativas.
@@ -45,23 +47,23 @@ As categorias são pra definir quais serão as perguntas, exemplo: você selecio
 
 As categorias disponiveis são:
 
-1 - Tecnologia;
-2 - Youtubers;
-3 - geografia;
-4 - Matematica;
-5 - Filmes;
-6 - Historia;
-7 - Lingua Portuguesa;
-8 - Cultura Pop;
-9 - Espaço e Astronomia;
-10 - Personalidades Famosas;
-11 - Transporte e Automoveis;
-12 - Ciencias;
-13 - Esportes;
-14 - Curiosidades Gerais;
-15 - Música;
-16 - Jogos;
-17 - Animes e Desenhos;
+#### 1 - Tecnologia;
+#### 2 - Youtubers;
+#### 3 - geografia;
+#### 4 - Matematica;
+#### 5 - Filmes;
+#### 6 - Historia;
+#### 7 - Lingua Portuguesa;
+#### 8 - Cultura Pop;
+#### 9 - Espaço e Astronomia;
+#### 10 - Personalidades Famosas;
+#### 11 - Transporte e Automoveis;
+#### 12 - Ciencias;
+#### 13 - Esportes;
+#### 14 - Curiosidades Gerais;
+#### 15 - Música;
+#### 16 - Jogos;
+#### 17 - Animes e Desenhos;
 
 
 # Regras:
@@ -88,6 +90,6 @@ O jogo possui regras pra deixa-lo mais organizado e dinamico. As regras em topic
     d) Maria
 
     Ai você deve enviar a letra antes do parenteses, da seguinta forma:
-    qual a resposta? *c*
+    qual a resposta? c
 
 5 - Sendo questão aberta (dificuldades: insano e impossivel) Por favor, sempre verifique sua ortografia antes de enviar as respostas das questões.
