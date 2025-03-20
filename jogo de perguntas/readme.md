@@ -1,6 +1,6 @@
 ***Jogo de pergutas e respostas desenvolvido por Victor Mirada Oliveira.***
 
-Topicos:
+### Topicos:
 - Como funciona - Niveis;
 - Dificuldades;
 - Categorias;
