@@ -9,11 +9,13 @@ Topicos:
 
 # Como o jogo funciona?
 Ele primeiramente solicita o cadastro do usuario, pedindo informações, elas são:
+
 Nome - Para Registrar o usuário;
+
 Idade - Para salvar o publico atingido, essa pergunta faz com que as perguntas sejam em base ao conhecimento da idade. Por exemplo:
 São separados em niveis de idade da seguinte forma:
 
-Nivel1 = Idade de 1 a 6 anos;
+## Nivel1 = Idade de 1 a 6 anos;
 Nivel2 = Idade de 7 a 10 anos;
 Nivel3 = Idade de 11 a 14 anos;
 Nivel4 = Idade de 15 a 18 anos;
