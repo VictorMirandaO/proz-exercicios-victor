@@ -106,7 +106,7 @@ O jogador pode escolher entre as seguintes categorias:
 14. Curiosidades Gerais  
 15. Música  
 16. Jogos  
-17 Animes e Desenhos  
+17. Animes e Desenhos  
 
 ---
 
