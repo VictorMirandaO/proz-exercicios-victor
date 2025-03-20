@@ -1,25 +1,58 @@
 # jogo de perguntas e respostas
-print("em desenvolvimento")
+print("Jogo em desenvolvimento, ainda estou estruturando o codigo")
 
-print("Realize o cadastro")
-nome = input("Por favor, digite seu nome ou usuario: ")
-idade = int(input("Por favor, digite sua idade: "))
+print("Realize o cadastro;")
+while True:
+    nome = input("Digite seu nome ou usuario: ").strip()
+
+    nome_formatado = nome.replace(" ", "")
+
+    if nome_formatado.isalnum() and any(c.isalpha() for c in nome_formatado):
+        break
+    else:
+        print("Nome inválido! Deve conter pelo menos uma letra, pode ter números e espaços, mas sem símbolos.")
+
+
+while True:
+    try:
+        idade = int(input("Digite sua idade: "))
+        if idade <= 0 or idade > 100:
+            print("Por favor, digite uma idade válida.")
+        else:
+            break
+    except ValueError:
+        print("Por favor, digite um número válido.")
+
+print(" ")
 print("As dificuldades disponíveis são:")
-print("1 - Muito fácil")
-print("2 - Fácil")
-print("2 - Médio")
-print("3 - Difícil")
-print("4 - Muito difícil")
-print("5 - Insano")
-print("6 - Impossível")
+print('''
+1 - Muito fácil
+2 - Fácil
+2 - Médio
+3 - Difícil
+4 - Muito difícil
+5 - Insano
+6 - Impossível''')
 print(" ")
 
-dificuldade = input("Por favor, digite a dificuldade do jogo (apenas o número): ")
+dificuldade = int(input("Por favor, digite a dificuldade do jogo (apenas o número): "))
 print(" ")
+print("As categorias disponíveis são:")
+print("1 - Geografia")
+print("2 - História")
+print("3 - Matemática")
+print("4 - Português")
+print("5 - Ciências")
+print("6 - Informática")
+print("7 - Entretenimento")
+print("8 - Esportes")
+print("9 - Outros")
+print(" ")
+
 print("Por favor, escolha a categoria do jogo:")
 print("Atente-se a categoria escolhida, pois as perguntas serão baseadas na mesma.")
 
-categoria = input("Por favor, digite a categoria do jogo (te): ")
+categoria = input("Por favor, digite a categoria do jogo (): ")
 print(" ")
 
 print(f"Olá {nome}, seja bem vindo ao jogo de perguntas e respostas!")
