@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiro Formulário</title>
+</head>
+<body>
+    <h1>Formulário HTML</h1>
+    <form action="">
+        <label for="nome">Nome: </label>
+        <input type="text" name="nome" id="nome" placeholder="Digite seu nome">
+        <br><br>
+        <label for="email">Email: </label>
+        <input type="email" name="email" id="email" placeholder="Digite seu email">
+        <br><br>
+        <label for="senha">Senha: </label>
+        <input type="password" name="senha" id="senha" placeholder="Digite sua senha">
+        <br><br>
+        <label for="telefone">Telefone: </label>
+        <input type="tel" name="telefone" id="telefone" placeholder="Digite seu telefone">
+        <br><br>
+
+        <section>
+            <p>Nacionalidade: </p>
+            <input type="radio" name="nacionalidade" id="brasileiro" value="brasileiro">
+            <label for="brasileiro">Brasileiro(a)</label>
+            <br>
+            <input type="radio" name="nacionalidade" id="estrangeiro" value="estrangeiro">
+            <label for="estrangeiro">Estrangeiro(a)</label>
+        </section>
+
+        <section>
+            <p>Meio de transporte: </p>
+            <input type="checkbox" name="transporte" id="ape" value="ape">
+            <label for="aviao">A pé</label>
+            <br>
+            <input type="checkbox" name="transporte" id="bicicleta" value="bicicleta">
+            <label for="bicicleta">Bicicleta</label>
+            <br>
+            <input type="checkbox" name="transporte" id="carro" value="carro">
+            <label for="carro">Carro</label>
+            <br>
+            <input type="checkbox" name="transporte" id="onibus" value="onibus">
+            <label for="onibus">Ônibus</label>
+            <br>
+            <input type="checkbox" name="transporte" id="trem" value="trem">
+            <label for="trem">Trem</label>
+            <br>
+
+        </section>
+        <button type="submit">Enviar</button>
+        <button type="reset">Limpar</button>
+
+    </form>
+</body>
+</html>
